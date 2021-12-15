@@ -1,0 +1,17 @@
+Main menu : 
+  -Difficulty choice
+  -Moving Background
+Loading Screen : 
+   -Green Bar
+   -Drawing background behind 
+   -Generating Item list and location
+Gameplay loop : 
+    -Player select first first window -> Item get displayed on the left of the screen 
+    -Player select second window -> Item get displayed on the right
+      -If both are the same, windows turns green and found item gets added to the list
+      -Else items disapear
+    -Computer plays (same pattern as player)
+   -When all items are found, display scoreboard (~Stats)
+   
+   
+   
